@@ -4,7 +4,7 @@ R Scripts to generate statistics and graphs for environmental conditions in the 
  **B)** ability to specify specific NRCS SNOTEL (snow) or USGS (stream flow and temperature) sites to analyze <br />
  **C)** ability to graph the median and specified year across all sites. <br />
 
-## R statistical computing:
+## R Statistical Computing
 <img src="https://www.r-project.org/Rlogo.png" width="100">
 
 ## Sources of Data
