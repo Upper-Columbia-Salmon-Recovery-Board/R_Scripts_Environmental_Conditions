@@ -11,8 +11,8 @@ R Scripts to generate statistics and graphs for environmental conditions in the 
 <img src="http://geology.isu.edu/logos/USGS.png" width="200">
 <img src="https://mcdowellswcd.files.wordpress.com/2016/02/nrcs-logo.jpg?w=705" width="200">
 
-## Upper Columbia River (focus region of analysis)
-<img src="https://github.com/Upper-Columbia-Salmon-Recovery-Board/R_Scripts_Environmental_Conditions/blob/master/RCO_Map_v3.jpg" width="400">
+## Upper Columbia Salmon Recovery Board region
+<img src="https://github.com/Upper-Columbia-Salmon-Recovery-Board/R_Scripts_Environmental_Conditions/blob/master/RCO_Map_v3.jpg" width="600">
 
 
 
